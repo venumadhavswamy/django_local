@@ -235,7 +235,7 @@ CELERY_TIMEZONE = TIME_ZONE
 # EMAIL_BACKEND = 'djcelery_email.backends.CeleryEmailBackend'
 
 EMAIL_BACKEND = "sendgrid_backend.SendgridBackend"
-# SENDGRID_API_KEY ='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' #venu@selekt.in
-SENDGRID_API_KEY ='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' #shri.bhirud@outlook.com
+# SENDGRID_API_KEY ='' #venu@selekt.in
+SENDGRID_API_KEY ='' #shri.bhirud@outlook.com
 
 SENDGRID_SANDBOX_MODE_IN_DEBUG =False
